@@ -1,0 +1,11 @@
+FlightNum,CarrierName,Origin,Destination,ScheduledTravelTime,ActualTravelTime,Discrepancy,CarrierCode,ScheduledTravelTimeFormatted,ActualTravelTimeFormatted,DiscrepancyFormatted
+1003,American Airlines,LAX,DEN,54000,45240,8760,AA,15:0:0,12:34:0,2:26:0
+2147,Air France,DFW,MIA,46800,55800,9000,AF,13:0:0,15:30:0,2:30:0
+7080,British Airways,SFO,ATL,50400,59340,8940,BA,14:0:0,16:29:0,2:29:0
+1920,Delta Airlines,ATL,DEN,54000,62940,8940,DL,15:0:0,17:29:0,2:29:0
+8537,Emirates,SEA,DEN,10800,2040,8760,EK,3:0:0,0:34:0,2:26:0
+3255,Lufthansa,JFK,MIA,46800,37920,8880,LH,13:0:0,10:32:0,2:28:0
+4002,Qantas,MIA,SEA,25200,34140,8940,QF,7:0:0,9:29:0,2:29:0
+5825,Singapore Airlines,DFW,JFK,32400,23640,8760,SQ,9:0:0,6:34:0,2:26:0
+9586,Southwest Airlines,SFO,ATL,18000,26760,8760,SW,5:0:0,7:26:0,2:26:0
+9348,United Airlines,SEA,ORD,46800,38280,8520,UA,13:0:0,10:38:0,2:22:0

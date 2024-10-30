@@ -1,0 +1,41 @@
+CarrierName,TimeOfDay,AverageDepartureDelay,Rank,AverageDepartureDelayFormatted
+Lufthansa,Afternoon,2251.2,1,0:37:31.199999999999818
+Qantas,Afternoon,2309.61,2,0:38:29.610000000000127
+Delta Airlines,Afternoon,2601.97,3,0:43:21.9699999999998
+British Airways,Afternoon,2634.26,4,0:43:54.26000000000022
+American Airlines,Afternoon,2644.82,5,0:44:4.820000000000164
+Air France,Afternoon,2710.36,6,0:45:10.360000000000127
+Emirates,Afternoon,2868.75,7,0:47:48.75
+United Airlines,Afternoon,2903.38,8,0:48:23.38000000000011
+Southwest Airlines,Afternoon,2921.95,9,0:48:41.94999999999982
+Singapore Airlines,Afternoon,2991.09,10,0:49:51.090000000000146
+Delta Airlines,Evening,2417.81,1,0:40:17.809999999999945
+Qantas,Evening,2525.48,2,0:42:5.480000000000018
+Emirates,Evening,2600.17,3,0:43:20.170000000000073
+United Airlines,Evening,2642.93,4,0:44:2.9299999999998363
+Southwest Airlines,Evening,2706.2,5,0:45:6.199999999999818
+Singapore Airlines,Evening,2711.2,6,0:45:11.199999999999818
+British Airways,Evening,2852.8,7,0:47:32.80000000000018
+American Airlines,Evening,2861.39,8,0:47:41.38999999999987
+Air France,Evening,3019.35,9,0:50:19.34999999999991
+Lufthansa,Evening,3030.4,10,0:50:30.40000000000009
+American Airlines,Morning,2333.91,1,0:38:53.909999999999854
+Qantas,Morning,2443.71,2,0:40:43.710000000000036
+Delta Airlines,Morning,2540.81,3,0:42:20.809999999999945
+Air France,Morning,2594.1,4,0:43:14.099999999999909
+Lufthansa,Morning,2637.2,5,0:43:57.19999999999982
+Southwest Airlines,Morning,2706.18,6,0:45:6.179999999999836
+United Airlines,Morning,2743.33,7,0:45:43.32999999999993
+Emirates,Morning,2787.79,8,0:46:27.789999999999964
+British Airways,Morning,2796.24,9,0:46:36.23999999999978
+Singapore Airlines,Morning,2847.02,10,0:47:27.019999999999982
+Singapore Airlines,Night,2448.85,1,0:40:48.84999999999991
+Delta Airlines,Night,2576.86,2,0:42:56.86000000000013
+American Airlines,Night,2597.66,3,0:43:17.659999999999854
+Emirates,Night,2685.07,4,0:44:45.070000000000164
+United Airlines,Night,2704.1,5,0:45:4.099999999999909
+British Airways,Night,2751.89,6,0:45:51.88999999999987
+Qantas,Night,2778.61,7,0:46:18.610000000000127
+Lufthansa,Night,2781.79,8,0:46:21.789999999999964
+Air France,Night,2830.72,9,0:47:10.7199999999998
+Southwest Airlines,Night,2856.59,10,0:47:36.590000000000146
